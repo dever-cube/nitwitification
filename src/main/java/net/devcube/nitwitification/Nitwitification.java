@@ -1,5 +1,11 @@
 package net.devcube.nitwitification;
 
-public class Nitwitification {
+import net.fabricmc.api.ModInitializer;
 
+public class Nitwitification implements ModInitializer {
+
+    @Override
+    public void onInitialize() {
+
+    }
 }

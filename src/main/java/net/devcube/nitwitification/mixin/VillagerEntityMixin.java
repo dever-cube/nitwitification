@@ -1,6 +1,5 @@
 package net.devcube.nitwitification.mixin;
 
-import net.devcube.nitwitification.Nitwitification;
 import net.minecraft.entity.passive.PassiveEntity;
 import net.minecraft.entity.passive.VillagerEntity;
 import net.minecraft.server.world.ServerWorld;
